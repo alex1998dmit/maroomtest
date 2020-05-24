@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/maroomtest/static/css/main.101402f3.chunk.css",
+    "main.js": "/maroomtest/static/js/main.30f61e97.chunk.js",
+    "main.js.map": "/maroomtest/static/js/main.30f61e97.chunk.js.map",
+    "runtime-main.js": "/maroomtest/static/js/runtime-main.41ff19b4.js",
+    "runtime-main.js.map": "/maroomtest/static/js/runtime-main.41ff19b4.js.map",
+    "static/js/2.3632223c.chunk.js": "/maroomtest/static/js/2.3632223c.chunk.js",
+    "static/js/2.3632223c.chunk.js.map": "/maroomtest/static/js/2.3632223c.chunk.js.map",
+    "index.html": "/maroomtest/index.html",
+    "precache-manifest.9c2eb1241ac5c71dc109cff155276e83.js": "/maroomtest/precache-manifest.9c2eb1241ac5c71dc109cff155276e83.js",
+    "service-worker.js": "/maroomtest/service-worker.js",
+    "static/css/main.101402f3.chunk.css.map": "/maroomtest/static/css/main.101402f3.chunk.css.map",
+    "static/js/2.3632223c.chunk.js.LICENSE.txt": "/maroomtest/static/js/2.3632223c.chunk.js.LICENSE.txt",
+    "static/media/question.svg": "/maroomtest/static/media/question.0d243c4a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41ff19b4.js",
+    "static/js/2.3632223c.chunk.js",
+    "static/css/main.101402f3.chunk.css",
+    "static/js/main.30f61e97.chunk.js"
+  ]
+}
